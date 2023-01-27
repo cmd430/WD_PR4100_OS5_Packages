@@ -2,13 +2,16 @@
 
 This project contains the source and tools for software packages for Western Digital My Cloud PR4100 (OS5) NAS.
 
+- Forked and stripped down from https://github.com/WDCommunity/wdpksrc
+- Currently contains updated `MediaDeviceDrivers` package fixed for Hauppauge WinTV-dualHD (fix missing `dvb-demod-si2168-d60-01.fw`)
+
 # Setup Development Environment
 
 ## mksapkg setup
 
 For simple script based apps (most of the current packages), you only need mksapkg to create a binary.
 
-On Ubuntu 18.04:
+On Ubuntu 18.04 (I used WSL):
 
 .. code::
 
