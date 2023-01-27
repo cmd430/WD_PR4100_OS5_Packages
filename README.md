@@ -1,4 +1,4 @@
-# wdpksrc
+# WD_PR4100_OS5_Packages
 
 This project contains the source and tools for software packages for Western Digital My Cloud PR4100 (OS5) NAS.
 
