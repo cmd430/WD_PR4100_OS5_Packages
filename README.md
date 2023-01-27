@@ -13,16 +13,16 @@ For simple script based apps (most of the current packages), you only need mksap
 
 On Ubuntu 18.04 (I used WSL):
 
-.. code::
-
-    apt install libxml2 openssl
-
+```bash
+   $ sudo apt install libxml2 openssl
+```
 
 ### Build and deploy test
 
-.. code::
-    cd ./wdpk/<app>
-    ./build.sh
+```bash
+   $ cd ./wdpk/<app>
+   $ ./build.sh
+```
 
 This builds the OS5 package and places it at `packages/<app>`
 
