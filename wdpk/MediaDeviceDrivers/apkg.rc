@@ -3,7 +3,7 @@ Section: Apps
 Version: 0.6.10
 Packager: cmd430
 Email: cmd430@gmail.com
-Homepage: https://files.cmd430.xyz/nas
+Homepage: https://github.com/cmd430/WD_PR4100_OS5_Packages
 Description: TV/Media Device Drivers is a support package to enable an assortment of multimedia devices, mainly those used with USB television devices. For a list of compatible devices and support, visit the <a href='https://nextdimension.cc/NAS-MediaDrivers'>website</a>
 AddonShowName: TV/Media Device Drivers
 Icon: MediaDeviceDrivers.png
