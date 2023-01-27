@@ -1,0 +1,21 @@
+Package: MediaDeviceDrivers
+Section: Apps
+Version: 0.6.10
+Packager: cmd430
+Email: cmd430@gmail.com
+Homepage: https://files.cmd430.xyz/nas
+Description: TV/Media Device Drivers is a support package to enable an assortment of multimedia devices, mainly those used with USB television devices. For a list of compatible devices and support, visit the <a href='https://nextdimension.cc/NAS-MediaDrivers'>website</a>
+AddonShowName: TV/Media Device Drivers
+Icon: MediaDeviceDrivers.png
+AddonIndexPage:
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Centertype: 1
+UserControl: 0
+MinFWVer: 3.10.111
+MaxFWVer:
+IndividualFlags:
+
