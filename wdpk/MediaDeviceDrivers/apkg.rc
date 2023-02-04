@@ -15,7 +15,7 @@ StartDepend:
 StartConflict:
 Centertype: 1
 UserControl: 0
-MinFWVer: 3.10.111
+MinFWVer: 5.0.0
 MaxFWVer:
 IndividualFlags:
 
