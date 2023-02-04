@@ -1,0 +1,20 @@
+Package: PackageID
+Section: Apps
+Version: 1.0
+Packager: cmd430
+Email: cmd430@gmail.com
+Homepage: https://github.com/cmd430/WD_PR4100_OS5_Packages
+Description: App Description
+AddonShowName: My Display Name
+Icon: icon.png
+AddonIndexPage:
+AddonUsedPort:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Centertype: 1
+UserControl: 0
+MinFWVer: 5.0.0
+MaxFWVer:
+IndividualFlags:
