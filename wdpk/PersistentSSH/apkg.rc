@@ -1,6 +1,6 @@
 Package: PersistentSSH
 Section: Apps
-Version: 1.0
+Version: 1.1
 Packager: cmd430
 Email: cmd430@gmail.com
 Homepage: https://github.com/cmd430/WD_PR4100_OS5_Packages
@@ -15,6 +15,6 @@ StartDepend:
 StartConflict:
 Centertype: 1
 UserControl: 0
-MinFWVer: 3.10.111
+MinFWVer: 5.0.0
 MaxFWVer:
 IndividualFlags:
