@@ -1,11 +1,11 @@
-Package: htop
+Package: CommandUtils
 Section: Apps
 Version: 1.0
 Packager: cmd430
 Email: cmd430@gmail.com
 Homepage: https://github.com/cmd430/WD_PR4100_OS5_Packages
-Description: htop is a cross-platform interactive process viewer.
-AddonShowName: htop
+Description: Command line utilities
+AddonShowName: CommandUtils
 Icon: icon.png
 AddonIndexPage:
 AddonUsedPort:
