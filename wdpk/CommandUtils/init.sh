@@ -9,5 +9,5 @@ find "${APP_PATH}/bin" -maxdepth 1 -type f | while read file;
 do 
   ln -s "${file}" "/bin/$(basename "${file}")";
 done
-echo 'export LC_ALL=en_US.utf8' >> "/home/root/.profile"
+echo 'export LC_ALL=en_US.utf8; clear; echo; neofetch' >> "/home/root/.profile"
 ln -sfnT "${APP_PATH}/share/terminfo" "/usr/share/terminfo"
